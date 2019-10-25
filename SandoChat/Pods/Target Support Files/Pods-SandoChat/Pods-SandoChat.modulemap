@@ -1,0 +1,6 @@
+framework module Pods_SandoChat {
+  umbrella header "Pods-SandoChat-umbrella.h"
+
+  export *
+  module * { export * }
+}
