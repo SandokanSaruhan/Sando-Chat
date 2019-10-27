@@ -38,6 +38,8 @@ Use [Firebase Database](https://firebase.google.com/docs/database/ios/start) for
 * Xcode 10.1
 * iOS 11+
 
+![](DemoSandoChat.gif)
+
 
 
 
